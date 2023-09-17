@@ -1,0 +1,22 @@
+{
+  "name": "SmartLog",
+  "version": "0.1.0",
+  "summary": "A short description of SmartLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hua Son Tung/SmartLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hua Son Tung": "hua.son.tung@sun-asterisk.com"
+  },
+  "source": {
+    "git": "https://github.com/Hua Son Tung/SmartLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SmartLog/Classes/**/*"
+}

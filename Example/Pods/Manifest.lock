@@ -1,0 +1,16 @@
+PODS:
+  - SmartLog (0.1.0)
+
+DEPENDENCIES:
+  - SmartLog (from `../`)
+
+EXTERNAL SOURCES:
+  SmartLog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SmartLog: fd5a2a0205493858661221a4b3f6c1f2e802ed43
+
+PODFILE CHECKSUM: 42436ceb1dd624703d949cae00792badcd7d96cc
+
+COCOAPODS: 1.12.1
